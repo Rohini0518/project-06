@@ -18,4 +18,4 @@ This landing page, took me almost 6 hrs to complete,this is my project 06 in ful
 ![project 06](./screenshot.png)
 
 ## Here is live link
-[Live link]()
+[Live link](https://rohini-project06.netlify.app/)
